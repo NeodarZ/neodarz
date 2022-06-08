@@ -1,3 +1,3 @@
-Since the acquisition of Github by Microsoft I use this platform only to contribute to projects that are still there.
+You can find here a small part of my git repository and contribution to projects.
 
-But you can find my projects on my own server: https://git.neodarz.net
+But you can find my more on my own server: https://git.neodarz.net
